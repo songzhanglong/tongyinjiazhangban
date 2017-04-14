@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewTeacher/AppDelegate.m"
+            timestampString = "474974475.049141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "525"
+            endingLineNumber = "525"
+            landmarkName = "-dealWithError"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate dealWithError]"
+                  moduleName = "NewTeacher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/szl/Desktop/%E5%85%AC%E5%8F%B8%E5%AE%B6%E9%95%BF%E7%89%88/%E5%85%AC%E5%8F%B8%E5%AE%B6%E9%95%BF%E7%89%88/NewTeacher/AppDelegate.m"
+                  timestampString = "512451211.702937"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "525"
+                  endingLineNumber = "525"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__28-[AppDelegate dealWithError]_block_invoke"
+                  moduleName = "NewTeacher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/szl/Desktop/%E5%85%AC%E5%8F%B8%E5%AE%B6%E9%95%BF%E7%89%88/%E5%85%AC%E5%8F%B8%E5%AE%B6%E9%95%BF%E7%89%88/NewTeacher/AppDelegate.m"
+                  timestampString = "512451211.709762"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "526"
+                  endingLineNumber = "526"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

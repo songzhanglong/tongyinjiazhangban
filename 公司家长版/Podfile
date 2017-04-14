@@ -1,0 +1,8 @@
+platform :ios,'7.0'
+target 'NewTeacher' do
+	pod 'AFNetworking'
+	pod 'ReactiveCocoa'
+	pod 'JSONModel'
+	pod 'JSPatch'
+	pod 'Masonry'
+end
